@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode</RootNamespace>
-    <ProjectGuid>{AD9EC1D1-C70E-D3B6-A2D2-2AFD1670A320}</ProjectGuid>
+    <ProjectGuid>{DFA4692C-2B62-AB78-53B5-56F16C4C530E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Runtime</AssemblyName>
@@ -839,31 +839,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{E98F9D6B-AD88-623B-0187-861045796234}</Project>
+      <Project>{68FB7E2E-DC97-565F-5A18-D91BA2584C2A}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{676B2590-71E0-1408-2C6D-EEF22A73C3A1}</Project>
+      <Project>{185A554C-B869-13F0-BEAF-004A3F936D55}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsReporting.csproj">
-      <Project>{A787ACAA-11FA-468E-0724-0791CAD494B7}</Project>
+      <Project>{90110A1F-FCC4-6D2F-7B38-7131B9009CC9}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsReporting</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkSolutionInterface.csproj">
-      <Project>{0884D204-CD7A-E23D-C3CE-BED905E83AFB}</Project>
+      <Project>{1A3E954D-5690-B53D-8088-C89D2244AF58}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkSolutionInterface</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Networking.Transport.csproj">
-      <Project>{FD4AE4D1-7522-7EB5-82AE-C776975BF456}</Project>
+      <Project>{48F0AB93-4E09-B32F-8FB7-627E18A7C97A}</Project>
       <Name>Unity.Networking.Transport</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{2259A87B-C31D-1AED-A648-63851D315636}</Project>
+      <Project>{CF54D435-3B64-23E2-E7A2-333A3159103B}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{57300678-9A21-A80D-CC8E-C51C6151BB0E}</Project>
+      <Project>{5815CCC7-BBA8-B27C-38FC-6C3CF2497C26}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
   </ItemGroup>

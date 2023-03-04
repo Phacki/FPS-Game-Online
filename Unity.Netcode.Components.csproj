@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Netcode.Components</RootNamespace>
-    <ProjectGuid>{8E17B893-F860-9AC7-B5F7-AD63B6A997D2}</ProjectGuid>
+    <ProjectGuid>{C625D83A-25AF-DCC8-4B8E-61618615EEE4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Netcode.Components</AssemblyName>
@@ -745,11 +745,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Netcode.Runtime.csproj">
-      <Project>{AD9EC1D1-C70E-D3B6-A2D2-2AFD1670A320}</Project>
+      <Project>{DFA4692C-2B62-AB78-53B5-56F16C4C530E}</Project>
       <Name>Unity.Netcode.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{2259A87B-C31D-1AED-A648-63851D315636}</Project>
+      <Project>{CF54D435-3B64-23E2-E7A2-333A3159103B}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
   </ItemGroup>

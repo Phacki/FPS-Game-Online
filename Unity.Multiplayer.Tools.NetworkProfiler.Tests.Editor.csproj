@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.NetworkProfiler.Tests.Editor</RootNamespace>
-    <ProjectGuid>{03890815-A716-C953-E261-DA88BFDA8BD7}</ProjectGuid>
+    <ProjectGuid>{7EF0681C-E325-4B11-6B6D-7967239FE755}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.NetworkProfiler.Tests.Editor</AssemblyName>
@@ -713,39 +713,39 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Editor.csproj">
-      <Project>{4D320A07-5730-37F9-DA0E-545806F5ECF6}</Project>
+      <Project>{27F99672-0F56-BA88-40F7-6FBD8C66EA2B}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkProfiler.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetworkProfiler.Runtime.csproj">
-      <Project>{02199EAB-7F9F-9411-D100-5BDEA47E3C93}</Project>
+      <Project>{B16A96B1-B784-9A3E-4CCE-4E691B6FBAD6}</Project>
       <Name>Unity.Multiplayer.Tools.NetworkProfiler.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{9FA0F7D0-C4DE-73DF-08B5-483F806162CA}</Project>
+      <Project>{A1262CC6-69C9-55AF-726A-E60CCD2542D2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{D99B0376-3214-0605-D2A4-93BE9A3ECADD}</Project>
+      <Project>{CFE3AFDE-F021-21A0-6F10-43F9C6A7B5D1}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{676B2590-71E0-1408-2C6D-EEF22A73C3A1}</Project>
+      <Project>{185A554C-B869-13F0-BEAF-004A3F936D55}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{E98F9D6B-AD88-623B-0187-861045796234}</Project>
+      <Project>{68FB7E2E-DC97-565F-5A18-D91BA2584C2A}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.Tests.Editor.csproj">
-      <Project>{77E5B830-82CC-A32E-0EA0-451A6FC68F1C}</Project>
+      <Project>{39021F97-8EB5-FB98-E088-68E8C0AAC891}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats.Tests.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{2259A87B-C31D-1AED-A648-63851D315636}</Project>
+      <Project>{CF54D435-3B64-23E2-E7A2-333A3159103B}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Component.csproj">
-      <Project>{1E189BAD-F34D-AE8F-77E3-9C368B0A2F88}</Project>
+      <Project>{7398F131-546B-EC77-21C8-9BC78E2732D6}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Component</Name>
     </ProjectReference>
   </ItemGroup>

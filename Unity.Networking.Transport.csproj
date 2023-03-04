@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FD4AE4D1-7522-7EB5-82AE-C776975BF456}</ProjectGuid>
+    <ProjectGuid>{48F0AB93-4E09-B32F-8FB7-627E18A7C97A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Networking.Transport</AssemblyName>
@@ -789,19 +789,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{57300678-9A21-A80D-CC8E-C51C6151BB0E}</Project>
+      <Project>{5815CCC7-BBA8-B27C-38FC-6C3CF2497C26}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{2259A87B-C31D-1AED-A648-63851D315636}</Project>
+      <Project>{CF54D435-3B64-23E2-E7A2-333A3159103B}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{9EA4BE4F-DBCE-DD6A-C1D9-0D8D1E8AD4DC}</Project>
+      <Project>{1DB2802A-63D1-F394-4E23-7B4322BF7983}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Relay.csproj">
-      <Project>{995D5CA6-EE51-53CE-9F99-963678850AC1}</Project>
+      <Project>{68522D86-7CC6-D2B1-8A73-6C989D14DF51}</Project>
       <Name>Unity.Services.Relay</Name>
     </ProjectReference>
   </ItemGroup>

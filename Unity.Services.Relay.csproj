@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{995D5CA6-EE51-53CE-9F99-963678850AC1}</ProjectGuid>
+    <ProjectGuid>{68522D86-7CC6-D2B1-8A73-6C989D14DF51}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Services.Relay</AssemblyName>
@@ -794,11 +794,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Services.Core.csproj">
-      <Project>{A2E189EB-8AD8-1D92-FECE-55C897119107}</Project>
+      <Project>{3252AF25-368C-340D-09A7-5EB18AB38A1D}</Project>
       <Name>Unity.Services.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Internal.csproj">
-      <Project>{79A30471-2A55-8166-F02B-9955BFA4CFE7}</Project>
+      <Project>{8D820010-0C67-C92B-8C6F-4EA1874FDF56}</Project>
       <Name>Unity.Services.Core.Internal</Name>
     </ProjectReference>
   </ItemGroup>

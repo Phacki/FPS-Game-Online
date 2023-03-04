@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.NetStatsMonitor.Tests.Implementation</RootNamespace>
-    <ProjectGuid>{D2B34591-9D31-408F-DF9F-428D2C3A7AD6}</ProjectGuid>
+    <ProjectGuid>{A97ACA46-A6DA-0A71-EB14-AD16F2155008}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.NetStatsMonitor.Tests.Implementation</AssemblyName>
@@ -714,51 +714,51 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{9FA0F7D0-C4DE-73DF-08B5-483F806162CA}</Project>
+      <Project>{A1262CC6-69C9-55AF-726A-E60CCD2542D2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{D99B0376-3214-0605-D2A4-93BE9A3ECADD}</Project>
+      <Project>{CFE3AFDE-F021-21A0-6F10-43F9C6A7B5D1}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Adapters.csproj">
-      <Project>{ED24C52D-B889-B087-0020-60FDE69D9400}</Project>
+      <Project>{3CDFABAA-810B-B8E4-EAFE-C3208D1492CE}</Project>
       <Name>Unity.Multiplayer.Tools.Adapters</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{D65FFAEA-0D67-424C-0594-167F8FC26C16}</Project>
+      <Project>{5C611C31-4A39-8F6A-D873-8C1C6C7D48D4}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricEvents.csproj">
-      <Project>{93AC6BA6-E4F1-B3AB-6159-F0FA65B80A68}</Project>
+      <Project>{848B7ED1-4576-5968-6A00-9A37852ADB8D}</Project>
       <Name>Unity.Multiplayer.Tools.MetricEvents</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTestData.csproj">
-      <Project>{D308F82A-7FD2-B506-5723-769E6CC29B91}</Project>
+      <Project>{70A4EA3E-B182-B6DE-7301-9CE8A7F41236}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTestData</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Component.csproj">
-      <Project>{1E189BAD-F34D-AE8F-77E3-9C368B0A2F88}</Project>
+      <Project>{7398F131-546B-EC77-21C8-9BC78E2732D6}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Component</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.csproj">
-      <Project>{4DECECED-DBA9-937E-EBF7-5ECB947063BD}</Project>
+      <Project>{24D77917-9149-C4C9-7271-EA91129804B5}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Configuration</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.csproj">
-      <Project>{EA8B9B3C-EB7F-5DE8-1DE0-A17AE9E7E64E}</Project>
+      <Project>{EDBA4637-E40C-A4D6-74EC-7EE3AA5CB441}</Project>
       <Name>Unity.Multiplayer.Tools.NetStatsMonitor.Implementation</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{676B2590-71E0-1408-2C6D-EEF22A73C3A1}</Project>
+      <Project>{185A554C-B869-13F0-BEAF-004A3F936D55}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.MetricTypes.csproj">
-      <Project>{E98F9D6B-AD88-623B-0187-861045796234}</Project>
+      <Project>{68FB7E2E-DC97-565F-5A18-D91BA2584C2A}</Project>
       <Name>Unity.Multiplayer.Tools.MetricTypes</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.Tests.Editor.csproj">
-      <Project>{77E5B830-82CC-A32E-0EA0-451A6FC68F1C}</Project>
+      <Project>{39021F97-8EB5-FB98-E088-68E8C0AAC891}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats.Tests.Editor</Name>
     </ProjectReference>
   </ItemGroup>

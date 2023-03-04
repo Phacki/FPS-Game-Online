@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DD66999A-F6FE-8C9A-316A-7E07E56ABA86}</ProjectGuid>
+    <ProjectGuid>{D8289FAE-EF33-13A0-546E-F50C99FC0E65}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Services.Authentication</AssemblyName>
@@ -801,15 +801,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Services.Core.csproj">
-      <Project>{A2E189EB-8AD8-1D92-FECE-55C897119107}</Project>
+      <Project>{3252AF25-368C-340D-09A7-5EB18AB38A1D}</Project>
       <Name>Unity.Services.Core</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Internal.csproj">
-      <Project>{79A30471-2A55-8166-F02B-9955BFA4CFE7}</Project>
+      <Project>{8D820010-0C67-C92B-8C6F-4EA1874FDF56}</Project>
       <Name>Unity.Services.Core.Internal</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Environments.csproj">
-      <Project>{F023821D-33E4-CF3F-AF28-34B92370E971}</Project>
+      <Project>{4185A168-68DB-233E-2325-1855E3FC1C19}</Project>
       <Name>Unity.Services.Core.Environments</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.MetricTypes</RootNamespace>
-    <ProjectGuid>{E98F9D6B-AD88-623B-0187-861045796234}</ProjectGuid>
+    <ProjectGuid>{68FB7E2E-DC97-565F-5A18-D91BA2584C2A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.MetricTypes</AssemblyName>
@@ -761,15 +761,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Collections.csproj">
-      <Project>{2259A87B-C31D-1AED-A648-63851D315636}</Project>
+      <Project>{CF54D435-3B64-23E2-E7A2-333A3159103B}</Project>
       <Name>Unity.Collections</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{D65FFAEA-0D67-424C-0594-167F8FC26C16}</Project>
+      <Project>{5C611C31-4A39-8F6A-D873-8C1C6C7D48D4}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{676B2590-71E0-1408-2C6D-EEF22A73C3A1}</Project>
+      <Project>{185A554C-B869-13F0-BEAF-004A3F936D55}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.Editor</RootNamespace>
-    <ProjectGuid>{8A94603D-A58C-D8AF-A269-67D690BB7373}</ProjectGuid>
+    <ProjectGuid>{DAD8C585-62D2-3A0F-4357-55658A4E1EE5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.Editor</AssemblyName>
@@ -768,15 +768,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.Common.csproj">
-      <Project>{D65FFAEA-0D67-424C-0594-167F8FC26C16}</Project>
+      <Project>{5C611C31-4A39-8F6A-D873-8C1C6C7D48D4}</Project>
       <Name>Unity.Multiplayer.Tools.Common</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{D99B0376-3214-0605-D2A4-93BE9A3ECADD}</Project>
+      <Project>{CFE3AFDE-F021-21A0-6F10-43F9C6A7B5D1}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{9FA0F7D0-C4DE-73DF-08B5-483F806162CA}</Project>
+      <Project>{A1262CC6-69C9-55AF-726A-E60CCD2542D2}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

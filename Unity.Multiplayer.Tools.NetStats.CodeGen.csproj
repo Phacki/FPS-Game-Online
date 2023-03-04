@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools.NetStats.CodeGen</RootNamespace>
-    <ProjectGuid>{8DCE7343-EE2A-9AE5-A2CA-C54A97393CD7}</ProjectGuid>
+    <ProjectGuid>{C3C4C540-CFF9-F0A0-7B72-C2AD67D0D986}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.NetStats.CodeGen</AssemblyName>
@@ -721,7 +721,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Multiplayer.Tools.NetStats.csproj">
-      <Project>{676B2590-71E0-1408-2C6D-EEF22A73C3A1}</Project>
+      <Project>{185A554C-B869-13F0-BEAF-004A3F936D55}</Project>
       <Name>Unity.Multiplayer.Tools.NetStats</Name>
     </ProjectReference>
   </ItemGroup>

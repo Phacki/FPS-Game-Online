@@ -87,7 +87,7 @@ public class PlayerManager : NetworkBehaviour
         snotGun.ammo = 10;
         pistol.ammo = 45;
         stim.stimAmount = 1;
-        SpawnPoint(playerTeam.Value);
+        SpawnPointServerRpc(playerTeam.Value);
         SetUpServerRpc();
     }
     [ServerRpc(RequireOwnership = false)]
@@ -104,7 +104,8 @@ public class PlayerManager : NetworkBehaviour
         txtTags.text = killCount + "";
     }
 
-    public void SpawnPoint(int playerTeam)
+    [ServerRpc(RequireOwnership = false)]
+    public void SpawnPointServerRpc(int playerTeam)
     {
         // get the current player object
         GameObject currentPlayer = this.gameObject;

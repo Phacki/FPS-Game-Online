@@ -240,32 +240,26 @@ public class GunScript : NetworkBehaviour
         user.RegisterDamageClientRpc(damage);
     }
 
-    [ServerRpc]
+    [ServerRpc(RequireOwnership = false)]
     private void SelectTeaServerRpc(string name)
     {
         if (name == TeaBlock.name)
         {
             playerManager.playerTeam.Value = 0;
-            playerManager.SpawnPoint(0);
-            GoSpawnPlayerClientRpc(0);
+            playerManager.SpawnPointServerRpc(0);
         }
     }
 
-    [ServerRpc]
+    [ServerRpc(RequireOwnership = false)]
     private void SelectSeaTeaServerRpc(string name)
     {
         if (name == SeaTeaBlock.name)
         {
             playerManager.playerTeam.Value = 1;
-            GoSpawnPlayerClientRpc(1);
+            playerManager.SpawnPointServerRpc(1);
         }
     }
 
-    [ClientRpc]
-    private void GoSpawnPlayerClientRpc(int team)
-    {
-        playerManager.SpawnPoint(team);
-    }
     private void EquipAR(string name)
     {
         if (name == AR.name)

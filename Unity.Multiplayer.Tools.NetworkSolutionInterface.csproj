@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Unity.Multiplayer.Tools</RootNamespace>
-    <ProjectGuid>{0884D204-CD7A-E23D-C3CE-BED905E83AFB}</ProjectGuid>
+    <ProjectGuid>{1A3E954D-5690-B53D-8088-C89D2244AF58}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Multiplayer.Tools.NetworkSolutionInterface</AssemblyName>

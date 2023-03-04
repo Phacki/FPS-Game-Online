@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{683C1F40-177C-3D3E-8368-007228C656EA}</ProjectGuid>
+    <ProjectGuid>{23F01ED2-8A10-D301-C912-3BF689411DC5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Tutorials.Core</AssemblyName>
